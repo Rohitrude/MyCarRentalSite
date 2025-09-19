@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import logo1 from "./logo1.png";
 import gmail_logo from "./gmail_logo.svg";
 import facebook_logo from "./facebook_logo.svg";
 import instagram_logo from "./instagram_logo.svg";
@@ -41,10 +42,11 @@ import car_image2 from "./car_image2.png";
 import car_image3 from "./car_image3.png";
 import car_image4 from "./car_image4.png";
 
-export const cityList = ["New York", "Los Angeles", "Houston", "Chicago"];
+export const cityList = ["New Mumbai", "Delhi", "Bengaluru", "Yavatmal"];
 
 export const assets = {
   logo,
+  logo1,
   gmail_logo,
   facebook_logo,
   instagram_logo,
